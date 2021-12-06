@@ -1,8 +1,8 @@
 const Düsseldorf = {
     einwohnerzahl : "620.523",
-    Bundesland: " Nordrhein-Westfalen",
-    Gründungsjahr: "14. August 1288",
-    EinarraymitsehenswürdigkeitenundBesonderheiten: ["Weltarchitektur im MedienHafen "," Rheinturm" , "Königsallee", "Schloss Benrath " ]
+    bundesland: " Nordrhein-Westfalen",
+    gründungsjahr: "14. August 1288",
+    einarraymitsehenswürdigkeitenundbesonderheiten: ["Weltarchitektur im MedienHafen "," Rheinturm" , "Königsallee", "Schloss Benrath " ]
   
 };
 
@@ -11,5 +11,8 @@ Objekte verwenden
 */
 console.log( Düsseldorf)
 console.log (Düsseldorf.einwohnerzahl)
+console.log(Düsseldorf.bundesland)
+console.log(Düsseldorf.gründungsjahr)
+console.log(Düsseldorf. einarraymitsehenswürdigkeitenundbesonderheiten)
 
 
