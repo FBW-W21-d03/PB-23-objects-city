@@ -3,7 +3,7 @@
 ## Aufgabenstellung - Teil 1
 Schreibe ein Objekt zu einer Stadt, in deren Nähe du wohnst.
 Das Objekt hat den Namen der Stadt und folgenden Inhalt:
-1. Einwohnerzahl
+1. Einwohnerzahl 330.579
 2. Bundesland
 3. Gründungsjahr
 4. Ein array mit Sehenswürdigkeiten und Besonderheiten
