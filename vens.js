@@ -2,13 +2,16 @@ const deusseldorf = {
     einwohnerzahl: 619294,
     bundesland: "NRW",
     greundungsjahr: "14 Aug 1288",
-    
-};
-const sehensweurdigkeiten = [
+    sehensweurdigkeiten: [
     "Düsseldorfer Schauspielhaus",
     "Gustaf-Gründgens-Platz",
     "Forum Freies Theater",
-    "KaBARett FLiN"
-];
+    "KaBARett FLiN"]
+    };
 
-console.log("Düsseldorf:",deusseldorf, "Sehenswürdigkeiten:", sehensweurdigkeiten);
+console.log("Düsseldorf:",deusseldorf);
+
+console.log(deusseldorf.einwohnerzahl);
+console.log(deusseldorf.bundesland);
+console.log(deusseldorf.greundungsjahr);
+console.log(deusseldorf.sehensweurdigkeiten);
