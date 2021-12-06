@@ -1,13 +1,22 @@
 
-const Asgard = {
-    rasse: "Rottweiler",
-    farbe: "Schwarz",
-    geschlecht: "mänlich",
-    alter: 12,
-    besitzer: "Sprotte",
-    geimpft: true
+const Neviges = {
+    Einwohner: 18516,
+    Bundesland: "NRW",
+    Gründungsjahr: 1354,
+    Sehenswürdigkeiten:["Schloss Hardenberg","Schwimmbad", "Sprottens Haus"]
 };
+/* let Neviges = [];
+Neviges.push(Einwohner); */
 
+console.log(Neviges); 
+console.log("Einwohner:",Neviges.Einwohner);
+console.log("Das Bundesland:",Neviges.Bundesland);
+console.log("Das Gründungsjahr:",Neviges.Gründungsjahr);
+console.log("Sehenswürdigkeiten in Neviges:",Neviges.Sehenswürdigkeiten);
+
+
+
+/*
 const Rex = {
     rasse: "Schäferhund",
     farbe: "braun",
@@ -34,3 +43,4 @@ dogs.push(Rex);
 dogs.push(Lota);
 console.log(dogs);
 
+*/
